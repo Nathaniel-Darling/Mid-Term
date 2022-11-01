@@ -919,3 +919,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.01-17.05.12:067][  0]LogAssetRegistry: Asset discovery search completed in 11.2359 seconds
 [2022.11.01-17.05.12:072][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.11.01-17.05.12:072][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.01-17.06.47:123][259]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.01-17.06.47:140][259]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/MeleeEnemy.MeleeEnemy
+[2022.11.01-17.06.47:493][259]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.11.01-17.06.48:518][259]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.01-17.06.48:649][260]LogSlate: Took 0.012728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
