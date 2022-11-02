@@ -291,15 +291,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B14E5EBDEBCF00BB06F66E22D5FF5B2E6E4D135D",
-			"Assets": [
-				"/Game/MuzzleFlashPack/Materials/M_Glow_3"
-			]
-		},
-		{
 			"ShaderMapHash": "4BA26B375960922F211E72AEBC82A9519CD7B34F",
 			"Assets": [
 				"/Game/MuzzleFlashPack/Materials/M_Splat_2"
+			]
+		},
+		{
+			"ShaderMapHash": "B14E5EBDEBCF00BB06F66E22D5FF5B2E6E4D135D",
+			"Assets": [
+				"/Game/MuzzleFlashPack/Materials/M_Glow_3"
 			]
 		},
 		{
@@ -321,6 +321,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FB3BC51A3690CE3F9C1C9E84B2B4DED1D13B8B9F",
+			"Assets": [
+				"/Game/MuzzleFlashPack/Materials/M_Smoke_2"
+			]
+		},
+		{
 			"ShaderMapHash": "77669A82AA34C3CAE2832330DF5B81D7D097CAB6",
 			"Assets": [
 				"/Game/MuzzleFlashPack/Materials/M_Impact_2",
@@ -337,12 +343,6 @@
 			"ShaderMapHash": "115A97B9C519CCEE1CA9D2098A10684404BF4F32",
 			"Assets": [
 				"/Game/MuzzleFlashPack/Materials/M_Dirt_2"
-			]
-		},
-		{
-			"ShaderMapHash": "FB3BC51A3690CE3F9C1C9E84B2B4DED1D13B8B9F",
-			"Assets": [
-				"/Game/MuzzleFlashPack/Materials/M_Smoke_2"
 			]
 		},
 		{
@@ -381,6 +381,54 @@
 			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "D7497840AC137E8C8AAC0D731C7CCB3ADD279DB2",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "4824F604A30BC5219EF292894E6D5B0B1C2A7380",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "3B23D7BA68647DF0DD1CB3A63FA8D22B900CE602",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "3E58ADAE4C06CCC672ECE98A6BA8E0A8BCDBBB69",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "988096A1539C5A5F39CF1958345652A3F759D375",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "7293F4B212935DCC0A57547B03C953D24AE814D5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
 			]
 		},
 		{
@@ -637,54 +685,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall"
-			]
-		},
-		{
-			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Frame"
-			]
-		},
-		{
-			"ShaderMapHash": "D7497840AC137E8C8AAC0D731C7CCB3ADD279DB2",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
-			]
-		},
-		{
-			"ShaderMapHash": "4824F604A30BC5219EF292894E6D5B0B1C2A7380",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Walnut"
-			]
-		},
-		{
-			"ShaderMapHash": "3B23D7BA68647DF0DD1CB3A63FA8D22B900CE602",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Pine"
-			]
-		},
-		{
-			"ShaderMapHash": "3E58ADAE4C06CCC672ECE98A6BA8E0A8BCDBBB69",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Oak"
-			]
-		},
-		{
-			"ShaderMapHash": "988096A1539C5A5F39CF1958345652A3F759D375",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
-			]
-		},
-		{
-			"ShaderMapHash": "7293F4B212935DCC0A57547B03C953D24AE814D5",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
-			]
-		},
-		{
 			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Basic_Floor"
@@ -770,6 +770,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "59C014E5E647C9B3225FE60E22528958AAADC5EF",
+			"Assets": [
+				"/Game/MuzzleFlashPack/Materials/M_Spark_1"
+			]
+		},
+		{
 			"ShaderMapHash": "B9CEBD45B64436E8CBFD2FB65E2E6B83147F1E33",
 			"Assets": [
 				"/Game/MuzzleFlashPack/Materials/M_Shine"
@@ -780,12 +786,6 @@
 			"Assets": [
 				"/Game/MuzzleFlashPack/Materials/M_Aura_5",
 				"/Game/MuzzleFlashPack/Materials/M_Aura_8"
-			]
-		},
-		{
-			"ShaderMapHash": "59C014E5E647C9B3225FE60E22528958AAADC5EF",
-			"Assets": [
-				"/Game/MuzzleFlashPack/Materials/M_Spark_1"
 			]
 		},
 		{
@@ -879,12 +879,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A91B71FBC669D551EAE91A17ACE36DFE6F6576CE",
-			"Assets": [
-				"/Game/MuzzleFlashPack/Materials/M_Glow_2"
-			]
-		},
-		{
 			"ShaderMapHash": "FABFED8D1BB93F526F3D97DC37CB20B2F35600E5",
 			"Assets": [
 				"/Game/MuzzleFlashPack/Materials/M_Explosion_7"
@@ -894,6 +888,12 @@
 			"ShaderMapHash": "02BB2C8D54E9CEF62327292F81505BA98F9554F5",
 			"Assets": [
 				"/Game/MuzzleFlashPack/Materials/M_Spark_3"
+			]
+		},
+		{
+			"ShaderMapHash": "A91B71FBC669D551EAE91A17ACE36DFE6F6576CE",
+			"Assets": [
+				"/Game/MuzzleFlashPack/Materials/M_Glow_2"
 			]
 		},
 		{
