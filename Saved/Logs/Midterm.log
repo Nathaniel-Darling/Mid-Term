@@ -6928,3 +6928,1128 @@ Click OK to delete them, or Cancel to ignore.
 [2022.11.02-22.00.09:938][231]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.02-22.00.09:938][231]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
 [2022.11.02-22.00.09:939][231]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2022.11.02-22.08.29:050][560]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2022.11.02-22.08.30:434][710]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2022.11.02-22.08.31:011][773]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2022.11.02-22.08.34:838][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Patroller.Patroller
+[2022.11.02-22.08.42:608][981]BlueprintLog: New page: Compile Patroller
+[2022.11.02-22.08.42:673][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.11.02-22.08.44:887][179]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Stationaryenemy.Stationaryenemy
+[2022.11.02-22.08.47:967][479]BlueprintLog: New page: Compile Stationaryenemy
+[2022.11.02-22.08.48:038][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.11.02-22.08.48:444][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Stationaryenemy" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Stationaryenemy.uasset" SILENT=true
+[2022.11.02-22.08.48:463][519]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/StationaryenemyC093989E43D09E84B856258B1B8405F4.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Stationaryenemy.uasset'
+[2022.11.02-22.08.48:478][519]AssetCheck: New page: Asset Save: Stationaryenemy
+[2022.11.02-22.08.48:478][519]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Stationaryenemy.Stationaryenemy
+[2022.11.02-22.08.50:215][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Patroller" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Patroller.uasset" SILENT=true
+[2022.11.02-22.08.50:242][703]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/PatrollerB08C202F4F7D90DA01A0859DE08C8A10.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Patroller.uasset'
+[2022.11.02-22.08.50:256][703]AssetCheck: New page: Asset Save: Patroller
+[2022.11.02-22.08.50:257][703]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Patroller.Patroller
+[2022.11.02-22.09.35:127][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.11.02-22.09.36:958][266]LogSlate: Window 'Save Content' being destroyed
+[2022.11.02-22.09.36:992][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.02-22.09.37:026][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.02-22.09.37:095][266]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/Level18D43BBA4459A31F88141B8A4521975EF.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Levels/Level1.umap'
+[2022.11.02-22.09.37:100][266]LogFileHelpers: Saving map 'Level1' took 0.109
+[2022.11.02-22.09.37:123][266]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TitleScreen/TitleScreen.TitleScreen
+[2022.11.02-22.09.37:123][266]Cmd: MAP LOAD FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Levels/TitleScreen/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.02-22.09.37:124][266]LightingResults: New page: Lighting Build
+[2022.11.02-22.09.37:124][266]LoadErrors: New page: Loading map: TitleScreen.umap
+[2022.11.02-22.09.37:125][266]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.09.37:125][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.09.37:125][266]MapCheck: New page: Map Check
+[2022.11.02-22.09.37:125][266]LightingResults: New page: Lighting Build
+[2022.11.02-22.09.37:161][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-22.09.37:168][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.11.02-22.09.37:169][266]LogAudio: Display: Audio Device (ID: 1) registered with world 'TitleScreen'.
+[2022.11.02-22.09.37:317][266]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.02-22.09.37:317][266]LogAIModule: Creating AISystem for world TitleScreen
+[2022.11.02-22.09.37:355][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.11.02-22.09.37:361][266]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.02-22.09.37:361][266]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2022.11.02-22.09.37:361][266]LogFileHelpers: Loading map 'TitleScreen' took 0.238
+[2022.11.02-22.09.37:378][266]AssetCheck: New page: Asset Save: Level1
+[2022.11.02-22.09.37:378][266]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2022.11.02-22.09.41:556][741]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/TitleScreen/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2022.11.02-22.10.04:374][192]LogSlate: Window 'TitleScreen' being destroyed
+[2022.11.02-22.10.04:379][192]LogSlate: Window 'TitleScreen' being destroyed
+[2022.11.02-22.10.04:406][192]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.10.04:406][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.10.05:626][326]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.10.05:626][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.10.12:590][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.11.02-22.10.13:833][129]LogSlate: Window 'Save Content' being destroyed
+[2022.11.02-22.10.13:862][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TitleScreen/TitleScreen" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Levels/TitleScreen/TitleScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.02-22.10.13:896][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.11.02-22.10.13:899][129]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/TitleScreen3620B5414E16D832CF3351B74FAD094A.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Levels/TitleScreen/TitleScreen.umap'
+[2022.11.02-22.10.13:904][129]LogFileHelpers: Saving map 'TitleScreen' took 0.043
+[2022.11.02-22.10.13:942][129]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Tutorial.Tutorial
+[2022.11.02-22.10.13:942][129]Cmd: MAP LOAD FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.02-22.10.13:942][129]LightingResults: New page: Lighting Build
+[2022.11.02-22.10.13:942][129]LoadErrors: New page: Loading map: Tutorial.umap
+[2022.11.02-22.10.13:943][129]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.10.13:943][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.10.13:943][129]MapCheck: New page: Map Check
+[2022.11.02-22.10.13:943][129]LightingResults: New page: Lighting Build
+[2022.11.02-22.10.13:975][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-22.10.13:980][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.11.02-22.10.14:016][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.11.02-22.10.14:051][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.11.02-22.10.14:051][129]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2022.11.02-22.10.14:131][129]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.02-22.10.14:131][129]LogAIModule: Creating AISystem for world Tutorial
+[2022.11.02-22.10.14:168][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.11.02-22.10.14:172][129]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.02-22.10.14:172][129]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2022.11.02-22.10.14:172][129]LogFileHelpers: Loading map 'Tutorial' took 0.230
+[2022.11.02-22.10.14:189][129]AssetCheck: New page: Asset Save: TitleScreen
+[2022.11.02-22.10.14:189][129]LogContentValidation: Display: Validating World /Game/Levels/TitleScreen/TitleScreen.TitleScreen
+[2022.11.02-22.11.51:150][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Stationaryenemy.Stationaryenemy
+[2022.11.02-22.12.37:845][876]BlueprintLog: New page: Compile Stationaryenemy
+[2022.11.02-22.12.37:912][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.11.02-22.12.38:781][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Stationaryenemy" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Stationaryenemy.uasset" SILENT=true
+[2022.11.02-22.12.38:798][971]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/Stationaryenemy6731747349644A9A7895C7955D3AF5BA.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Stationaryenemy.uasset'
+[2022.11.02-22.12.38:815][971]AssetCheck: New page: Asset Save: Stationaryenemy
+[2022.11.02-22.12.38:815][971]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Stationaryenemy.Stationaryenemy
+[2022.11.02-22.13.21:782][889]BlueprintLog: New page: Compile Patroller
+[2022.11.02-22.13.21:849][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.11.02-22.13.22:248][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Patroller" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Patroller.uasset" SILENT=true
+[2022.11.02-22.13.22:274][926]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/Patroller7341007F413BA19D3E92948B2D447D38.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Patroller.uasset'
+[2022.11.02-22.13.22:290][926]AssetCheck: New page: Asset Save: Patroller
+[2022.11.02-22.13.22:291][926]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Patroller.Patroller
+[2022.11.02-22.13.23:468][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.02-22.13.23:473][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-22.13.23:473][ 61]PIE: New page: PIE session: Tutorial (Nov 2, 2022, 2:13:23 PM)
+[2022.11.02-22.13.23:531][ 61]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2022.11.02-22.13.23:540][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009242s)
+[2022.11.02-22.13.23:541][ 61]LogAIModule: Creating AISystem for world Tutorial
+[2022.11.02-22.13.23:541][ 61]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2022.11.02-22.13.23:541][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.010261s)
+[2022.11.02-22.13.23:579][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.11.02-22.13.23:580][ 61]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2022.11.02-22.13.23:580][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-22.13.23:580][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-22.13.23:580][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-22.13.23:580][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-22.13.23:580][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-22.13.23:580][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.02-22.13.23:580][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-22.13.23:580][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-22.13.23:580][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-22.13.23:580][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-22.13.23:580][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-22.13.23:580][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.02-22.13.23:587][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.02-22.13.23:587][ 61]LogAudioMixer: Display: 1: FrontRight
+[2022.11.02-22.13.23:600][ 61]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.11.02-22.13.23:600][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-22.13.23:601][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-22.13.23:601][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-22.13.23:601][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.02-22.13.23:601][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.02-22.13.23:601][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.02-22.13.23:602][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.02-22.13.23:602][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.02-22.13.23:602][ 61]LogInit: FAudioDevice initialized.
+[2022.11.02-22.13.23:602][ 61]LogAudio: Display: Audio Device (ID: 55) registered with world 'Tutorial'.
+[2022.11.02-22.13.23:611][ 61]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.02-22.13.23:613][ 61]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2022.11.02-18.13.23
+[2022.11.02-22.13.23:613][ 61]LogWorld: Bringing up level for play took: 0.001469
+[2022.11.02-22.13.23:614][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2022.11.02-22.13.23:617][ 61]PIE: Server logged in
+[2022.11.02-22.13.23:618][ 61]PIE: Play in editor total start time 0.146 seconds.
+[2022.11.02-22.13.31:020][894]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Walktutorial_Blueprint_C /Game/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Walktutorial_Blueprint
+	Function /Game/UI/Walktutorial_Blueprint.Walktutorial_Blueprint_C:ExecuteUbergraph_Walktutorial_Blueprint:0017
+[2022.11.02-22.13.31:020][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Walktutorial_Blueprint Function:  Execute Ubergraph Walktutorial Blueprint Graph:  EventGraph Node:  Remove from Parent
+[2022.11.02-22.14.00:107][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-22.14.00:107][375]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2022.11.02-22.14.00:108][375]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.14.00:109][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.14.00:116][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.02-22.14.00:122][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.14.00:157][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-22.14.00:157][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.02-22.14.00:158][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.02-22.14.00:160][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-22.14.00:166][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.11.02-22.14.00:275][376]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2022.11.02-22.14.05:404][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Walktutorial_Blueprint.Walktutorial_Blueprint
+[2022.11.02-22.14.06:982][113]LogSlate: Window 'Message Log' being destroyed
+[2022.11.02-22.14.06:988][113]LogSlate: Window 'Message Log' being destroyed
+[2022.11.02-22.14.16:957][299]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.14.16:957][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.14.48:887][918]BlueprintLog: New page: Compile Patroller
+[2022.11.02-22.14.48:953][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.11.02-22.14.58:330][943]BlueprintLog: New page: Compile Stationaryenemy
+[2022.11.02-22.14.58:395][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.11.02-22.14.58:965][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Stationaryenemy" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Stationaryenemy.uasset" SILENT=true
+[2022.11.02-22.14.58:982][997]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/Stationaryenemy6418979841DFEFE51AF511BEAE239D4B.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Stationaryenemy.uasset'
+[2022.11.02-22.14.58:997][997]AssetCheck: New page: Asset Save: Stationaryenemy
+[2022.11.02-22.14.58:997][997]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Stationaryenemy.Stationaryenemy
+[2022.11.02-22.15.00:997][227]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.02-22.15.01:002][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-22.15.01:002][227]PIE: New page: PIE session: Tutorial (Nov 2, 2022, 2:15:01 PM)
+[2022.11.02-22.15.01:026][227]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2022.11.02-22.15.01:035][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008540s)
+[2022.11.02-22.15.01:036][227]LogAIModule: Creating AISystem for world Tutorial
+[2022.11.02-22.15.01:036][227]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2022.11.02-22.15.01:036][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.009456s)
+[2022.11.02-22.15.01:074][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.11.02-22.15.01:075][227]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2022.11.02-22.15.01:075][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-22.15.01:075][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-22.15.01:075][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-22.15.01:075][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-22.15.01:075][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-22.15.01:075][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.02-22.15.01:075][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-22.15.01:075][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-22.15.01:075][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-22.15.01:075][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-22.15.01:075][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-22.15.01:075][227]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.02-22.15.01:082][227]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.02-22.15.01:082][227]LogAudioMixer: Display: 1: FrontRight
+[2022.11.02-22.15.01:093][227]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.11.02-22.15.01:093][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-22.15.01:093][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-22.15.01:093][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-22.15.01:093][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.02-22.15.01:093][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.02-22.15.01:093][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.02-22.15.01:094][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.02-22.15.01:094][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.02-22.15.01:094][227]LogInit: FAudioDevice initialized.
+[2022.11.02-22.15.01:094][227]LogAudio: Display: Audio Device (ID: 56) registered with world 'Tutorial'.
+[2022.11.02-22.15.01:101][227]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.02-22.15.01:103][227]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2022.11.02-18.15.01
+[2022.11.02-22.15.01:103][227]LogWorld: Bringing up level for play took: 0.001522
+[2022.11.02-22.15.01:103][227]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2022.11.02-22.15.01:107][227]PIE: Server logged in
+[2022.11.02-22.15.01:108][227]PIE: Play in editor total start time 0.107 seconds.
+[2022.11.02-22.15.05:589][744]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Walktutorial_Blueprint_C /Game/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Walktutorial_Blueprint
+	Function /Game/UI/Walktutorial_Blueprint.Walktutorial_Blueprint_C:ExecuteUbergraph_Walktutorial_Blueprint:0017
+[2022.11.02-22.15.05:589][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Walktutorial_Blueprint Function:  Execute Ubergraph Walktutorial Blueprint Graph:  EventGraph Node:  Remove from Parent
+[2022.11.02-22.15.17:331][145]LogNet: Browse: /Game/Levels/Level1
+[2022.11.02-22.15.17:331][145]LogLoad: LoadMap: /Game/Levels/Level1
+[2022.11.02-22.15.17:331][145]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2022.11.02-22.15.17:332][145]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.15.17:333][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.15.17:401][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-22.15.17:406][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.11.02-22.15.17:451][145]LogAudio: Display: Audio Device (ID: 56) registered with world 'Level1'.
+[2022.11.02-22.15.17:452][145]LogAIModule: Creating AISystem for world Level1
+[2022.11.02-22.15.17:452][145]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.02-22.15.17:458][145]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.02-18.15.17
+[2022.11.02-22.15.17:458][145]LogWorld: Bringing up level for play took: 0.006326
+[2022.11.02-22.15.17:462][145]LogLoad: Took 0.131017 seconds to LoadMap(/Game/Levels/Level1)
+[2022.11.02-22.15.30:897][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-22.15.30:897][745]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2022.11.02-22.15.30:897][745]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.15.30:899][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.15.30:908][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.02-22.15.30:914][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.15.30:950][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-22.15.30:950][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.02-22.15.30:951][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.02-22.15.30:953][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-22.15.30:958][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.11.02-22.15.31:048][746]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2022.11.02-22.15.33:931][ 57]LogSlate: Window 'Message Log' being destroyed
+[2022.11.02-22.15.33:937][ 57]LogSlate: Window 'Message Log' being destroyed
+[2022.11.02-22.15.54:958][482]BlueprintLog: New page: Compile Patroller
+[2022.11.02-22.15.54:962][482]LogBlueprint: Error: [AssetLog] C:\Users\natha\Documents\GitHub\Mid-Term\Content\Enemies\Patroller.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.11.02-22.15.55:020][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.11.02-22.16.10:766][264]BlueprintLog: New page: Compile Stationaryenemy
+[2022.11.02-22.16.10:830][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.11.02-22.16.17:826][ 58]BlueprintLog: New page: Compile Patroller
+[2022.11.02-22.16.17:890][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.11.02-22.16.18:987][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Patroller" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Patroller.uasset" SILENT=true
+[2022.11.02-22.16.19:013][178]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/Patroller6220D7E2449C016705CD49BFD1014DF0.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Patroller.uasset'
+[2022.11.02-22.16.19:029][178]AssetCheck: New page: Asset Save: Patroller
+[2022.11.02-22.16.19:030][178]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Patroller.Patroller
+[2022.11.02-22.20.41:673][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.11.02-22.20.41:695][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.02-22.20.41:731][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.02-22.20.41:756][706]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/Tutorial19C6AB494E43C273F07073A4B8C42BA6.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Levels/Tutorial.umap'
+[2022.11.02-22.20.41:761][706]LogFileHelpers: Saving map 'Tutorial' took 0.066
+[2022.11.02-22.20.41:768][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Stationaryenemy" FILE="C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Stationaryenemy.uasset" SILENT=true
+[2022.11.02-22.20.41:784][706]LogSavePackage: Moving 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/StationaryenemyF20B6A6B498E8C408D13F7A42A2D04D0.tmp' to 'C:/Users/natha/Documents/GitHub/Mid-Term/Content/Enemies/Stationaryenemy.uasset'
+[2022.11.02-22.20.45:359][706]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.02-22.20.45:359][706]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Stationaryenemy.Stationaryenemy
+[2022.11.02-22.20.45:359][706]LogContentValidation: Display: Validating World /Game/Levels/Tutorial.Tutorial
+[2022.11.02-22.20.48:220][992]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.02-22.21.06:881][205]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.02-22.21.06:885][205]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.02-22.21.11:637][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.02-22.21.20:388][729]LogMainFrame: Project requires temp target (SteamVR plugin is disabled)
+[2022.11.02-22.21.20:388][729]LogLauncherProfile: Unable to use promoted target - C:/Users/natha/Documents/GitHub/Mid-Term/Binaries/Win64/UE4Game.target does not exist.
+[2022.11.02-22.21.20:476][736]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.11.02-22.21.20:694][754]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/natha/Documents/GitHub/Mid-Term/Midterm.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=C:/Users/natha/Documents/GitHub/Mid-Term/Midterm.uproject -cook -stage -archive -archivedirectory=C:/Users/natha/Documents/GitHub/Mid-Term/Final_Builds -package -ue4exe="F:\Unreal Engine\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -clientconfig=Development -utf8output
+[2022.11.02-22.21.21:113][804]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\natha\Documents\GitHub\Mid-Term\Midterm.uproject
+[2022.11.02-22.21.21:269][823]UATHelper: Packaging (Windows (64-bit)): Midterm.uproject requires a temporary target.cs to be generated (SteamVR plugin is disabled)
+[2022.11.02-22.21.21:429][841]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2022.11.02-22.21.21:437][842]UATHelper: Packaging (Windows (64-bit)): Running: F:\Unreal Engine\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe Midterm Win64 Development -Project=C:\Users\natha\Documents\GitHub\Mid-Term\Midterm.uproject  C:\Users\natha\Documents\GitHub\Mid-Term\Midterm.uproject -NoUBTMakefiles  -remoteini="C:\Users\natha\Documents\GitHub\Mid-Term" -skipdeploy -Manifest=C:\Users\natha\Documents\GitHub\Mid-Term\Intermediate\Build\Manifest.xml -NoHotReload -log="C:\Users\natha\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+Unreal+Engine+UE_4.27\UBT-Midterm-Win64-Development.txt"
+[2022.11.02-22.21.21:876][893]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\natha\Documents\GitHub\Mid-Term).
+[2022.11.02-22.21.22:633][984]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to C:\Users\natha\Documents\GitHub\Mid-Term\Intermediate\Build\Manifest.xml
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   Building Midterm...
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   [Upgrade]
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Midterm.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2022.11.02-22.21.22:713][993]UATHelper: Packaging (Windows (64-bit)):   [Upgrade]
+[2022.11.02-22.21.22:722][994]UATHelper: Packaging (Windows (64-bit)):   Building 3 actions with 8 processes...
+[2022.11.02-22.21.22:798][  3]UATHelper: Packaging (Windows (64-bit)):     [1/3] Default.rc2
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)):     [2/3] Midterm.exe
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)):        Creating library C:\Users\natha\Documents\GitHub\Mid-Term\Binaries\Win64\Midterm.lib and object C:\Users\natha\Documents\GitHub\Mid-Term\Binaries\Win64\Midterm.exp
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)):     [3/3] Midterm.target
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)):   Total time in Parallel executor: 6.04 seconds
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 7.29 seconds
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)): Took 7.3497207s to run UnrealBuildTool.exe, ExitCode=0
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\natha\Documents\GitHub\Mid-Term\Midterm.uproject
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is F:\Unreal Engine\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.11.02-18.21.28.txt
+[2022.11.02-22.21.28:904][538]UATHelper: Packaging (Windows (64-bit)): Running: F:\Unreal Engine\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\natha\Documents\GitHub\Mid-Term\Midterm.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="F:\Unreal Engine\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.11.02-18.21.28.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.11.02-22.21.29:244][539]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.11.02-22.21.29:244][539]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.11.02-22.21.29:244][539]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: Midterm
+[2022.11.02-22.21.29:913][541]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.11.02-22.21.30:250][542]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 32 GB [34270838784 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.02-22.21.30:586][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.02-22.21.30:586][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.02-22.21.30:586][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.02-22.21.30:586][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.02-22.21.30:586][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.02-22.21.30:586][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.02-22.21.30:586][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.02-22.21.30:586][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.02-22.21.30:587][543]UATHelper: Packaging (Windows (64-bit)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.11.02-22.21.30:924][544]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.02-22.21.31:605][546]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.02-22.21.31:605][546]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/natha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.11.02-22.21.31:605][546]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.02-22.21.31:605][546]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=1547.16MBs, RandomWriteSpeed=92.57MBs. Assigned SpeedClass 'Local'
+[2022.11.02-22.21.33:281][551]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.02-22.21.33:281][551]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.02-22.21.33:618][552]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: EnumProperty FStackEntryAddAction::Mode is not initialized properly. Module:CascadeToNiagaraConverter File:Public/NiagaraStackGraphUtilitiesAdapterLibrary.h
+[2022.11.02-22.21.33:618][552]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2022.11.02-22.21.33:618][552]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.02-22.21.33:618][552]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.11.02-22.21.33:618][552]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.11.02-22.21.33:957][553]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.11.02-22.21.33:957][553]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Inisetting is different for  Game /Script/UnrealEd.ProjectPackagingSettings StagingDirectory 0, value (Path="C:/Users/natha/Documents/GitHub/Mid-Term/Final_Builds") != (Path="C/Users/natha/Documents/GitHub/Mid-Term") invalidating cook
+[2022.11.02-22.21.33:957][553]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Game:/Script/UnrealEd.ProjectPackagingSettings
+[2022.11.02-22.21.33:957][553]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.11.02-22.21.33:957][553]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.016 seconds for platforms WindowsNoEditor
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 191 (19100.00%)
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2022.11.02-22.21.34:631][555]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.11.02-22.21.34:970][556]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 700 Total 700
+[2022.11.02-22.21.34:970][556]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=216, VirtualMemory=574MiB
+[2022.11.02-22.21.35:975][559]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 785 Total 990
+[2022.11.02-22.21.40:695][573]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 446 Packages Remain 635 Total 1081
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.11.02-22.21.41:368][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.11.02-22.21.41:369][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.11.02-22.21.41:369][575]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2022.11.02-22.21.41:369][575]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 596 Packages Remain 485 Total 1081
+[2022.11.02-22.21.43:728][582]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 934 Packages Remain 159 Total 1093
+[2022.11.02-22.21.44:093][583]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loading shader for Niagara script P_Sparks_Converted/Smoke/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.02-22.21.44:094][583]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loading shader for Niagara script P_Sparks_Converted/Sparks/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.02-22.21.44:094][583]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.11.02-22.21.44:094][583]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.11.02-22.21.44:094][583]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-22.21.44:094][583]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1093 Packages Remain 0 Total 1093
+[2022.11.02-22.21.44:094][583]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=1095, VirtualMemory=1545MiB
+[2022.11.02-22.21.44:094][583]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.11.02-22.21.44:106][584]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.11.02-22.21.44:106][584]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.11.02-22.21.44:106][584]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.11.02-22.21.44:106][584]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.11.02-22.21.44:106][584]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.11.02-22.21.44:130][586]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.11.02-22.21.44:157][588]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 1137, size is 370.10kb
+[2022.11.02-22.21.44:157][588]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Midterm' (PCD3D_SM5) Stats:
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 216, Unique Shadermaps: 185 (85.65%)
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 4955, Unique Shaders: 3748 (75.64%)
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 11.58mb, Unique Shaders Size: 8.97mb (77.46%)
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 17
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 493
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.11.02-22.21.44:239][594]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     79, 60, 60, 43, 43, 36, 30, 29, 27, 17
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to 'C:/Users/natha/Documents/GitHub/Mid-Term/Saved/Shaders/PCD3D_SM5/ShaderDebug-Midterm-PCD3D_SM5/Dump.txt'
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 9.072176s total time 10.800756
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 1767 MiB Peak Used physical 1790 MiB
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.016s (1)
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.229s (1)
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.11.02-22.21.44:255][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.001s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 9.069s (86609)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.004s (174821)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 5.416s (1093)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 3.606s (230)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.199s (112)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.553s (1088)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.552s (981)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 2.746s (1093)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 2.726s (1093)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.005s (1093)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.003s (1081)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.010s (1093)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.007s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.133s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.011s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.030s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.047s (1)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.001997s to verify the EDL loading graph.
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=2
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000019
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000524
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=2
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.006332
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=580
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=244
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=812
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=5.788054
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=682
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=620
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=496
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=1093
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=2.652344
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.592278
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.234481
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000255
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.002185
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.009034
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000480
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.493210
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.534658
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.330112
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=1092.240395
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=15.266811
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=4.458258
+[2022.11.02-22.21.44:256][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=10.805908
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.192279
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000011
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=9.249142
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=5.416376
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=2.746224
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.751658
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.015573
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.009184
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.013605
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.001748
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      3599
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      3628
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.992007
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.373760
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.618247
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.007993
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =        13
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =        13
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.11.02-22.21.44:257][595]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             2.34                   0.00             0        920.23
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraScript                                   2.17                   2.17             0         20.77
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.41                   0.41             0         18.59
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.10                   0.10             0         18.26
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.06                   0.06             0         16.46
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.06                   0.06             0         26.50
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.01                   0.01             0          2.74
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader                                   0.01                   0.01             0          0.30
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          6.31
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.23
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.00                   0.00             0          0.25
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Audio (Inline)                                  0.00                   0.00             0          0.00
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00            13        114.86
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   
+[2022.11.02-22.21.44:276][596]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  10.82 seconds
+[2022.11.02-22.21.44:644][622]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.02-22.21.44:644][622]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2022.11.02-22.21.44:644][622]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.02-22.21.44:644][622]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.02-22.21.44:644][622]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: ================================================
+[2022.11.02-22.21.44:992][624]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.11.02-22.21.45:329][625]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Took 17.3832971s to run UE4Editor-Cmd.exe, ExitCode=0
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\BaseEditor.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\BaseLightmass.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\Category.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\Editor.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\Engine.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\Unreal Engine\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\natha\Documents\GitHub\Mid-Term\Config\DefaultEditor.ini
+[2022.11.02-22.21.46:340][628]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\natha\Documents\GitHub\Mid-Term\Config\DefaultEditorPerProjectUserSettings.ini
+[2022.11.02-22.21.46:678][629]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\natha\Documents\GitHub\Mid-Term\Saved\StagedBuilds\WindowsNoEditor
+[2022.11.02-22.21.46:678][629]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2022.11.02-22.21.46:678][629]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)): Output from: C:\Users\natha\Documents\GitHub\Mid-Term\Midterm.uproject C:\Users\natha\Documents\GitHub\Mid-Term\Saved\StagedBuilds\WindowsNoEditor\Midterm\Content\Paks\Midterm-WindowsNoEditor.pak -create="C:\Users\natha\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+Unreal+Engine+UE_4.27\PakList_Midterm-WindowsNoEditor.txt" -cryptokeys=C:\Users\natha\Documents\GitHub\Mid-Term\Saved\Cooked\WindowsNoEditor\Midterm\Metadata\Crypto.json -secondaryOrder=C:\Users\natha\Documents\GitHub\Mid-Term\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows -compressionformats=Oodle -compressmethod=Kraken -compresslevel=3  -multiprocess -abslog="C:\Users\natha\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+Unreal+Engine+UE_4.27\UnrealPak-Midterm-WindowsNoEditor-2022.11.02-18.21.46.txt" -compressionblocksize=256KB
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   OodleDataCompression: Display: Oodle v2.9.0 initializing with method=Kraken, level=3=Fast
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\natha\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+Unreal+Engine+UE_4.27\PakList_Midterm-WindowsNoEditor.txt
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 3525 entries to add to pak file.
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\natha\Documents\GitHub\Mid-Term\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\natha\Documents\GitHub\Mid-Term\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 3525 files in 0.01s.
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Users\natha\Documents\GitHub\Mid-Term\Saved\StagedBuilds\WindowsNoEditor\Midterm\Content\Paks\Midterm-WindowsNoEditor.pak.
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 0 [Oodle] : 1703 files, 1125425120 -> 474418118 bytes
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 1 [Zlib] : 62 files, 3617126 -> 1187423 bytes
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 2 [None] : 1760 files, 45586886 -> 45586886 bytes
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 3525 files, 523186522 bytes total, time 4.88s.
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 73978 bytes
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 71104 bytes
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 123112 bytes
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 42.12% of original size. Compressed Size 475605541 bytes, Original Size 1129042246 bytes.
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 4.965171 seconds
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2022.11.02-22.21.52:401][646]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\natha\Documents\GitHub\Mid-Term\Saved\StagedBuilds\WindowsNoEditor
+[2022.11.02-22.21.53:076][648]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2022.11.02-22.21.53:076][648]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2022.11.02-22.21.53:076][648]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2022.11.02-22.21.53:076][648]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2022.11.02-22.21.53:076][648]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/natha/Documents/GitHub/Mid-Term/Final_Builds
+[2022.11.02-22.21.53:426][649]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2022.11.02-22.21.53:426][649]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2022.11.02-22.21.53:426][649]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2022.11.02-22.22.55:298][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.02-22.22.55:323][959]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.02-22.22.55:323][959]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.55:323][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.22.55:446][959]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.02-22.22.55:446][959]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.55:446][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.22.55:513][959]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.02-22.22.55:513][959]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.55:513][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.22.55:568][959]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.55:568][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-22.22.55:637][959]LogSlate: Window 'Midterm - Unreal Editor' being destroyed
+[2022.11.02-22.22.55:774][960]Cmd: QUIT_EDITOR
+[2022.11.02-22.22.55:774][960]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.02-22.22.55:776][960]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.02-22.22.56:110][960]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.02-22.22.56:111][960]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.02-22.22.56:111][960]LogAudio: Display: Audio Device unregistered from world 'Tutorial'.
+[2022.11.02-22.22.56:111][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.02-22.22.56:112][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.02-22.22.56:125][960]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.02-22.22.56:126][960]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.02-22.22.56:131][960]LogExit: Preparing to exit.
+[2022.11.02-22.22.57:137][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.11.02-22.22.57:243][960]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:247][960]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:251][960]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:255][960]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:259][960]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:262][960]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:266][960]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:270][960]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:273][960]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:277][960]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:281][960]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:285][960]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:288][960]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:292][960]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:296][960]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:300][960]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:378][960]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.02-22.22.57:396][960]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-22.22.57:396][960]LogExit: Editor shut down
+[2022.11.02-22.22.57:398][960]LogExit: Transaction tracking system shut down
+[2022.11.02-22.22.57:869][960]LogExit: Object subsystem successfully closed.
+[2022.11.02-22.22.57:883][960]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.02-22.22.57:883][960]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.02-22.22.57:883][960]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.02-22.22.57:883][960]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.02-22.22.57:883][960]LogShaderCompilers: Display: ================================================
+[2022.11.02-22.22.57:891][960]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.02-22.22.57:907][960]LogModuleManager: Shutting down and abandoning module UATHelper (890)
+[2022.11.02-22.22.57:907][960]LogModuleManager: Shutting down and abandoning module LauncherServices (888)
+[2022.11.02-22.22.57:907][960]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (886)
+[2022.11.02-22.22.57:907][960]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (884)
+[2022.11.02-22.22.57:907][960]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (882)
+[2022.11.02-22.22.57:907][960]LogModuleManager: Shutting down and abandoning module SequencerWidgets (880)
+[2022.11.02-22.22.57:907][960]LogModuleManager: Shutting down and abandoning module AnimationEditor (878)
+[2022.11.02-22.22.57:907][960]LogModuleManager: Shutting down and abandoning module PinnedCommandList (876)
+[2022.11.02-22.22.57:908][960]LogModuleManager: Shutting down and abandoning module SkeletonEditor (874)
+[2022.11.02-22.22.57:908][960]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.11.02-22.22.57:908][960]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (870)
+[2022.11.02-22.22.57:908][960]LogModuleManager: Shutting down and abandoning module Voice (868)
+[2022.11.02-22.22.57:908][960]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (866)
+[2022.11.02-22.22.57:908][960]LogModuleManager: Shutting down and abandoning module SceneOutliner (864)
+[2022.11.02-22.22.57:908][960]LogModuleManager: Shutting down and abandoning module AddContentDialog (862)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module WidgetCarousel (861)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module EditorWidgets (858)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module StatsViewer (856)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (854)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (852)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module AutomationWorker (850)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module OculusMR (848)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module OpenXRInput (838)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module GooglePADEditor (836)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (834)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (832)
+[2022.11.02-22.22.57:909][960]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (828)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module PlanarCut (788)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module CharacterAI (786)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module TextureAlignMode (784)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module BspMode (782)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module GeometryMode (780)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (778)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module SmartSnapping (776)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module SessionServices (774)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module MeshPaint (772)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (770)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module FoliageEdit (768)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module LandscapeEditor (766)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module MeshPaintMode (764)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (762)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module ActorPickerMode (760)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module PlacementMode (758)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module ViewportSnapping (756)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module ViewportInteraction (754)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module ClothPainter (752)
+[2022.11.02-22.22.57:910][960]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (751)
+[2022.11.02-22.22.57:911][960]LogModuleManager: Shutting down and abandoning module LogVisualizer (748)
+[2022.11.02-22.22.57:911][960]LogModuleManager: Shutting down and abandoning module IntroTutorials (746)
+[2022.11.02-22.22.57:911][960]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (745)
+[2022.11.02-22.22.57:911][960]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (742)
+[2022.11.02-22.22.57:911][960]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (740)
+[2022.11.02-22.22.57:911][960]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (738)
+[2022.11.02-22.22.57:911][960]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (737)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (734)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (732)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (730)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (728)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module TraceInsights (726)
+[2022.11.02-22.22.58:323][960]MemoryProfiler: Shutdown
+[2022.11.02-22.22.58:323][960]NetworkingProfiler: Shutdown
+[2022.11.02-22.22.58:323][960]LoadingProfiler: Shutdown
+[2022.11.02-22.22.58:323][960]TimingProfiler: Shutdown
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module TraceServices (725)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (722)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (720)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module InputBindingEditor (718)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module MergeActors (716)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (714)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module LocalizationService (713)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module HardwareTargeting (710)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (708)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module UndoHistory (706)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module XmlParser (704)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module Blutility (702)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (700)
+[2022.11.02-22.22.58:323][960]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (699)
+[2022.11.02-22.22.58:324][960]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (696)
+[2022.11.02-22.22.58:324][960]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (695)
+[2022.11.02-22.22.58:324][960]LogModuleManager: Shutting down and abandoning module SettingsEditor (692)
+[2022.11.02-22.22.58:324][960]LogModuleManager: Shutting down and abandoning module ProjectLauncher (690)
+[2022.11.02-22.22.58:324][960]LogModuleManager: Shutting down and abandoning module SessionFrontend (688)
+[2022.11.02-22.22.58:324][960]LogModuleManager: Shutting down and abandoning module ProfilerClient (686)
+[2022.11.02-22.22.58:324][960]LogModuleManager: Shutting down and abandoning module DeviceManager (684)
+[2022.11.02-22.22.58:324][960]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (683)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module AutomationController (680)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module AutomationWindow (678)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module Layers (676)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (674)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module DetailCustomizations (672)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module PackagesDialog (670)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (668)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module Persona (666)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (665)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module AnimGraph (663)
+[2022.11.02-22.22.58:356][960]LogModuleManager: Shutting down and abandoning module Kismet (660)
+[2022.11.02-22.22.58:394][960]LogModuleManager: Shutting down and abandoning module KismetWidgets (659)
+[2022.11.02-22.22.58:394][960]LogModuleManager: Shutting down and abandoning module GraphEditor (656)
+[2022.11.02-22.22.58:394][960]LogModuleManager: Shutting down and abandoning module StructViewer (654)
+[2022.11.02-22.22.58:394][960]LogModuleManager: Shutting down and abandoning module ClassViewer (652)
+[2022.11.02-22.22.58:395][960]LogModuleManager: Shutting down and abandoning module Toolbox (650)
+[2022.11.02-22.22.58:395][960]LogModuleManager: Shutting down and abandoning module ModuleUI (648)
+[2022.11.02-22.22.58:395][960]LogModuleManager: Shutting down and abandoning module OutputLog (646)
+[2022.11.02-22.22.58:401][960]LogModuleManager: Shutting down and abandoning module GammaUI (644)
+[2022.11.02-22.22.58:401][960]LogModuleManager: Shutting down and abandoning module Documentation (642)
+[2022.11.02-22.22.58:413][960]LogModuleManager: Shutting down and abandoning module LiveCoding (640)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module LevelSequence (638)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (636)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module MovieScene (634)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (632)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module LauncherPlatform (630)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module AnalyticsET (628)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module PortalServices (626)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module PortalRpc (624)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module MessagingRpc (622)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (620)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module AudioMixerCore (619)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module AIModule (616)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module GameplayDebugger (615)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module AITestSuite (613)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module NavigationSystem (611)
+[2022.11.02-22.22.58:414][960]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (608)
+[2022.11.02-22.22.58:419][960]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module OculusEditor (600)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module OculusInput (598)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (594)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (592)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module CollectionManager (591)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module TakeSequencer (588)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module TakeMovieScene (586)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ScreenshotTools (584)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module SynthesisEditor (582)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module Synthesis (580)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (578)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (576)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module OpenXREditor (574)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (572)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module GooglePAD (570)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module EditableMesh (568)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (566)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module CableComponent (564)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module AudioCapture (562)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (561)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (556)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module AndroidPermission (550)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (548)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (546)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module TemplateSequence (544)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module MediaCompositing (542)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module ImgMedia (540)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (538)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (536)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (534)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (532)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (530)
+[2022.11.02-22.22.58:556][960]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (528)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module CascadeToNiagaraConverter (526)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (524)
+[2022.11.02-22.22.58:557][960]LogOpenImageDenoise: OIDN shutting down
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (522)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module MotoSynth (520)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module MeshConversion (518)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module DynamicMesh (516)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (514)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometricObjects (512)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (510)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (509)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (506)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (504)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (502)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (500)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (498)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module ChaosNiagara (496)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module FractureEditor (494)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (493)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (490)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module BackChannel (488)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (486)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module AutomationUtils (484)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (482)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module AlembicImporter (480)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module AlembicLibrary (479)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryCache (478)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (477)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (472)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module PluginBrowser (470)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (468)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (466)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (464)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (462)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (460)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (458)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module CryptoKeys (456)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module CurveEditorTools (454)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (452)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (450)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module UObjectPlugin (448)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (446)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (444)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module PluginUtils (442)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (440)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (438)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (436)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module GitSourceControl (434)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module SourceControl (433)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (430)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (428)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (426)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (424)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (422)
+[2022.11.02-22.22.58:557][960]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (420)
+[2022.11.02-22.22.58:558][960]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (418)
+[2022.11.02-22.22.58:558][960]LogModuleManager: Shutting down and abandoning module LiveLink (416)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (414)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (412)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module Paper2DEditor (410)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (408)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (406)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module SoundFields (404)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module SignificanceManager (402)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (400)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (398)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (396)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (392)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (390)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (388)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module ActorSequence (386)
+[2022.11.02-22.22.58:670][960]LogModuleManager: Shutting down and abandoning module UdpMessaging (384)
+[2022.11.02-22.22.58:771][960]LogModuleManager: Shutting down and abandoning module TcpMessaging (382)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (380)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (378)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (376)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (374)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (372)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (370)
+[2022.11.02-22.22.58:871][960]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (368)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (366)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (364)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (362)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapController (360)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (358)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module MagicLeapAR (356)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (354)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module SignalProcessing (351)
+[2022.11.02-22.22.58:871][960]LogModuleManager: Shutting down and abandoning module NiagaraEditor (349)
+[2022.11.02-22.22.58:872][960]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2022.11.02-22.22.58:872][960]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (344)
+[2022.11.02-22.22.58:872][960]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (342)
+[2022.11.02-22.22.58:872][960]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (340)
+[2022.11.02-22.22.58:872][960]LogModuleManager: Shutting down and abandoning module FacialAnimation (338)
+[2022.11.02-22.22.58:872][960]LogModuleManager: Shutting down and abandoning module DataValidation (336)
+[2022.11.02-22.22.58:872][960]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2022.11.02-22.22.58:872][960]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (314)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module GameplayCameras (312)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module AnimationSharing (310)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (308)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (306)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module Paper2D (304)
+[2022.11.02-22.22.58:874][960]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (302)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (300)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (298)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module PacketHandler (296)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (294)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (292)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module MediaAssets (290)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module Overlay (288)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module OverlayEditor (287)
+[2022.11.02-22.22.58:884][960]LogModuleManager: Shutting down and abandoning module VREditor (284)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module StringTableEditor (282)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (280)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (278)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module FunctionalTesting (276)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (274)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (273)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module UMG (270)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module UMGEditor (269)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module MessageLog (267)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module SlateReflector (262)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module Slate (260)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module SlateCore (258)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (256)
+[2022.11.02-22.22.58:885][960]LogModuleManager: Shutting down and abandoning module UnrealEd (254)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module MRMesh (252)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (250)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (248)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module XAudio2 (246)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module Networking (244)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module Core (242)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module MaterialEditor (240)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module MovieSceneTools (238)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module CurveEditor (237)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module Sequencer (235)
+[2022.11.02-22.22.58:886][960]LogModuleManager: Shutting down and abandoning module EditorStyle (234)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module KismetCompiler (230)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module MeshBuilder (228)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module MeshUtilities (226)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (225)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (208)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module DerivedDataCache (206)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module TargetPlatform (204)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (203)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (201)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (199)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (197)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (193)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (191)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (189)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (187)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (185)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (183)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (181)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module ImageWrapper (180)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (177)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (175)
+[2022.11.02-22.22.58:888][960]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2022.11.02-22.22.58:889][960]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (171)
+[2022.11.02-22.22.58:889][960]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (169)
+[2022.11.02-22.22.58:889][960]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2022.11.02-22.22.58:889][960]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (165)
+[2022.11.02-22.22.58:889][960]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (163)
+[2022.11.02-22.22.58:892][960]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (161)
+[2022.11.02-22.22.58:893][960]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (159)
+[2022.11.02-22.22.58:893][960]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (157)
+[2022.11.02-22.22.58:893][960]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (155)
+[2022.11.02-22.22.58:893][960]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (153)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (151)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (149)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (147)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (145)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (143)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (141)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (139)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module Messaging (137)
+[2022.11.02-22.22.58:898][960]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (135)
+[2022.11.02-22.22.58:902][960]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (133)
+[2022.11.02-22.22.58:915][960]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (131)
+[2022.11.02-22.22.58:915][960]LogModuleManager: Shutting down and abandoning module D3D11RHI (128)
+[2022.11.02-22.22.58:915][960]LogModuleManager: Shutting down and abandoning module InputCore (126)
+[2022.11.02-22.22.58:915][960]LogModuleManager: Shutting down and abandoning module Settings (124)
+[2022.11.02-22.22.58:915][960]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (122)
+[2022.11.02-22.22.58:916][960]LogModuleManager: Shutting down and abandoning module PhysXCooking (120)
+[2022.11.02-22.22.58:916][960]LogModuleManager: Shutting down and abandoning module Chaos (118)
+[2022.11.02-22.22.58:916][960]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.11.02-22.22.58:916][960]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.11.02-22.22.58:916][960]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.11.02-22.22.58:916][960]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.11.02-22.22.58:916][960]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.11.02-22.22.58:916][960]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2022.11.02-22.22.58:917][960]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.11.02-22.22.58:918][960]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.11.02-22.22.58:918][960]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.11.02-22.22.58:925][960]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.11.02-22.22.58:925][960]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.11.02-22.22.58:925][960]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47FB90D4-45BF-730F-7F94-40B0B5F8C337%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=60020d804152d1ac1f81d6bf63bf5069%7Cd7896509beb14570b947b97952651c48%7Cc8e63fec-6aa6-4306-b712-3a42ea5c5b86&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.11.02-22.22.58:925][960]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.11.02-22.22.58:945][960]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.11.02-22.22.58:946][960]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.11.02-22.22.58:948][960]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.11.02-22.22.58:949][960]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.11.02-22.22.58:950][960]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.11.02-22.22.58:950][960]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.11.02-22.22.58:957][960]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.11.02-22.22.58:957][960]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.11.02-22.22.58:972][960]LogD3D11RHI: Shutdown
+[2022.11.02-22.22.58:972][960]LogD3D11RHI: CleanupD3DDevice
+[2022.11.02-22.22.58:976][960]LogExit: Exiting.
+[2022.11.02-22.22.58:988][960]Log file closed, 11/02/22 18:22:58

@@ -539,7 +539,7 @@ Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerfor
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/natha/Documents/GitHub/Mid-Term")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/natha/Documents/GitHub/Mid-Term/Final_Builds")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -618,7 +618,7 @@ Game:/Script/EngineSettings.GeneralProjectSettings:CopyrightNotice:0=Fill out yo
 Game:/Script/EngineSettings.GeneralProjectSettings:Description:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:LicensingTerms:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
-Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=First Person BP Game Template
+Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=SlideShow_ndarling_final
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.0.0
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
